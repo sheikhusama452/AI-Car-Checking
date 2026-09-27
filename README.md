@@ -7,7 +7,7 @@ AI-powered vehicle inspection assistant — Kotlin · Jetpack Compose · Materia
 
 1. Open this folder in **Android Studio (Ladybug 2024.2 or newer)**, JDK 17.
 2. Let Gradle sync (AGP 8.7.3, Kotlin 2.0.21, Gradle 8.11.1 wrapper).
-3. Run the `app` configuration on a device/emulator with **Android 8.0 (API 26)+**.
+3. Run the `app` configuration on a device/emulator with **Android 7.0 (API 24)+**.
 4. On Home, tap **Open Demo Inspection** to see the full offline flow.
 5. Optional: Settings → AI Provider → Google Gemini → paste your own API key to analyze real photos.
 

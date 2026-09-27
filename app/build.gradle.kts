@@ -12,10 +12,10 @@ android {
 
     defaultConfig {
         applicationId = "com.aicarchecking"
-        minSdk = 26
+        minSdk = 24
         targetSdk = 35
-        versionCode = 1
-        versionName = "0.1.0-mvp"
+        versionCode = 2
+        versionName = "0.1.1-mvp"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables { useSupportLibrary = true }
     }
